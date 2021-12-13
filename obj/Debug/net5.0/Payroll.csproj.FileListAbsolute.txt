@@ -1,0 +1,16 @@
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.exe
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.deps.json
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.runtimeconfig.json
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.runtimeconfig.dev.json
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.dll
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\ref\Payroll.dll
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\bin\Debug\net5.0\Payroll.pdb
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.AssemblyInfo.cs
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.dll
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\ref\Payroll.dll
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.pdb
+C:\Users\dotha\OneDrive\Desktop\Task\1651\Payroll\obj\Debug\net5.0\Payroll.genruntimeconfig.cache
